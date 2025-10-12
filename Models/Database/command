@@ -1,0 +1,11 @@
+python3 manage.py makemigrations
+
+python3 manage.py migrate
+
+1. mysql -u root -p
+
+2. SHOW DATABASES;
+
+3. CREATE DATABASE feedback;
+
+4. exit
